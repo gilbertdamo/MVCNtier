@@ -1,0 +1,15 @@
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\obj\Debug\App.Data.csprojResolveAssemblyReference.cache
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\App.Data.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\App.Data.pdb
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\App.Core.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\EntityFramework.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\StructureMap.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\App.Core.pdb
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\EntityFramework.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\bin\Debug\StructureMap.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\obj\Debug\App.Data.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Data\obj\Debug\App.Data.pdb

@@ -1,0 +1,15 @@
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\LetMeWork.Data.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\LetMeWork.Data.pdb
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\LetMeWork.Core.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\StructureMap.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\LetMeWork.Core.pdb
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\bin\Debug\StructureMap.xml
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\obj\Debug\LetMeWork.Data.csprojResolveAssemblyReference.cache
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\obj\Debug\LetMeWork.Data.dll
+C:\Users\Kimoy\Documents\Letmeworkapp\LetMeWork\LetMeWork.Data\obj\Debug\LetMeWork.Data.pdb

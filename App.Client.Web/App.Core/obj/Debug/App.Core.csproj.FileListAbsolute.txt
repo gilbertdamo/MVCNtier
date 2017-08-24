@@ -1,0 +1,9 @@
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\obj\Debug\App.Core.csprojResolveAssemblyReference.cache
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\App.Core.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\App.Core.pdb
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\StructureMap.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\bin\Debug\StructureMap.xml
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\obj\Debug\App.Core.dll
+F:\Projects\ProjectTemplate\ProjectTemplate\App.Core\obj\Debug\App.Core.pdb
